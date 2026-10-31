@@ -10,3 +10,7 @@ I have two ongoing N-body projects using help from AI (Claude):
 2. **The 4-body problem in space**
 
 Both involve building and understanding a **symbolic dynamics** for the problems.
+
+---------------
+
+Steve Trettel and I are working on a brake orbit visualization project over the weekend
